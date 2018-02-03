@@ -1,0 +1,3 @@
+
+export const MARKET_DATA_LOADED = 'MARKET_DATA_LOADED';
+
